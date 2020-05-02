@@ -1,0 +1,18 @@
+<Root>
+	<Page id="Page_Radio" drawable="bk_hor">
+	    <FreqView id="Radio_FreqView"  longclick="1" rect="185,95,150,35" drawableExtra="radio_0,radio_1,radio_2,radio_3,radio_4,radio_5,radio_6,radio_7,radio_8,radio_9,radio_0point"  paraStr="Left"/>
+	    
+	    
+	    <ImageView id="Radio_Logo" rect="167,163,180,180" drawable="radio_logo"/>
+	    
+		<Button id="Radio_Btn_FreqM" longclick="1" rect="109,466,120,120" drawable="hor_radio_freqm"/>
+		<Button id="Radio_Btn_FreqP" longclick="1" rect="284,466,120,120" drawable="hor_radio_freqp"/>
+		
+		<Text id="Radio_Txt_CurFreqName_All" rect="186,413,300,35" color="#ffffff" h="28" text="Playing Now" paraStr="Left,TruncateAtMarQuee"/>
+		<Text id="Radio_Txt_Scanning" rect="185,63,150,35" color="#ffffff" h="32" text="radio_scaning"/>
+		
+		<View rect="150,417,24,29" drawable="tip_name"/>
+		<View rect="145,363,219,36" drawable="tip_logo"/>
+ 
+	</Page>
+</Root>

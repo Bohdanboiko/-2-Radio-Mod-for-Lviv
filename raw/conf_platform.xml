@@ -1,0 +1,11 @@
+<project name="platform">
+	<property name="platform" value="9853"/>	
+	<property name="apkid" value="190095002_com.syu.radio"/>
+	<property name="sharedUserId" value=""/>
+	<property name="ChangeChannelText_Band" value="1"/>
+	<property name="SetTransparent" value="1"/>
+	<property name="ChannelFreqAddTail" value="1"/>
+	<property name="RuRadioName" value="1"/>
+	<property name="OnlyFM" value="1"/>
+	<property name="BandFm2Am" value="0"/>
+	</project>
