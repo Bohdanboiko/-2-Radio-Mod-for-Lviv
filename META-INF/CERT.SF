@@ -1,0 +1,601 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: Xo/7MHPWPvfZkiwVvHxd+zH+Nrs=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/drawable-nodpi-v4/bk_bottom.webp
+SHA1-Digest: XZAMakW29FWfYoBr+0h2wDDkt1Q=
+
+Name: res/anim/left_out.xml
+SHA1-Digest: WjNOXlhGZQbcydX4GNrWg1jeXYM=
+
+Name: res/drawable-nodpi-v4/radio_5.png
+SHA1-Digest: hneHh3xJdrsdmMahYPaEo27iHco=
+
+Name: res/drawable-nodpi-v4/radio_info_btn_p.webp
+SHA1-Digest: pfy58zWx/FMzwLMmYqTM1gyWGsc=
+
+Name: res/drawable-nodpi-v4/radio_icota_p.webp
+SHA1-Digest: yUhcA8XYbDlD2krPgwEHW79GPOw=
+
+Name: res/anim/pop_btgps_hidden.xml
+SHA1-Digest: Flvozc2k+ix7VwRCf/F4I8ijTUM=
+
+Name: res/anim/right_out.xml
+SHA1-Digest: H8q0QRKhg4Rg1BEs8DPSBK1aj+A=
+
+Name: res/drawable-nodpi-v4/sw_bk.webp
+SHA1-Digest: ol9wZr6QCfnQQJGVplHfEzgGkE4=
+
+Name: res/drawable-nodpi-v4/radio_icota.webp
+SHA1-Digest: 3THhr3qFk2bVDue7SdpfjZRl7Kk=
+
+Name: res/drawable-nodpi-v4/radio_image2.png
+SHA1-Digest: oupMWqNmiifzF8WBZOxitT9cdDI=
+
+Name: res/drawable-nodpi-v4/radio_ruler.png
+SHA1-Digest: 7gzFtT0viUF2cGm93Td3LRzN6Ug=
+
+Name: res/drawable-nodpi-v4/radio_menu_save_p.png
+SHA1-Digest: DVA/veKYrfMODDoeUfqLy+5m5PU=
+
+Name: res/drawable-nodpi-v4/fl018.png
+SHA1-Digest: oGWCfoLv1vTi7njS6IlpvqB/Zc0=
+
+Name: res/raw/radio_delinfo.xml
+SHA1-Digest: qocLwilh157GR+EQUw2VWlGdZV4=
+
+Name: res/drawable-nodpi-v4/hor_radio_freqp_p.png
+SHA1-Digest: /zsOF6IqbOtFvOQmD1kzZipzM+4=
+
+Name: res/drawable-nodpi-v4/radio_icotaon.webp
+SHA1-Digest: 3iDkcBjRItY0FKkTuSFIrnKkJtY=
+
+Name: res/drawable-nodpi-v4/fl022.png
+SHA1-Digest: ObdjBznzN2ddCtuIU3KBMPf1X1E=
+
+Name: res/anim/pop_history_menu_show.xml
+SHA1-Digest: Kf8MhAR6C1xkPaXUAg6sxQj2epU=
+
+Name: res/drawable-nodpi-v4/radio_icoscan.webp
+SHA1-Digest: HdmPbPAtOzYTiBfVSoeaCcacljg=
+
+Name: res/anim/fade_out.xml
+SHA1-Digest: nkB1NRGbF+qjSCeKsFALMRh0wJw=
+
+Name: res/anim/pop_add_contacts_show.xml
+SHA1-Digest: fnCbVTlCmosmAZsLv1D2pDbtPHk=
+
+Name: res/drawable-nodpi-v4/fl006.png
+SHA1-Digest: gVacsIJ4aJ2wUkRanQtXU4VvkUo=
+
+Name: res/drawable-nodpi-v4/radio_icoafon_p.webp
+SHA1-Digest: ffICZB3zaxKuJPflS5SjkrHenF8=
+
+Name: res/anim/pop_pin_show.xml
+SHA1-Digest: q7ZbtsN9h/lDzSzeVMbBZppahHo=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_btn_p.webp
+SHA1-Digest: dvWWpst54APhCCHlP0psK2zAHMQ=
+
+Name: resources.arsc
+SHA1-Digest: F0/RvBmadL1nLo8h8xMRgdyjCuA=
+
+Name: res/drawable-nodpi-v4/radio_menu_scan.png
+SHA1-Digest: lBSRxQtMP9F7HhstGyS97HFFul4=
+
+Name: res/drawable-nodpi-v4/radio_itembk.webp
+SHA1-Digest: kmAJI1UWqoyWCjUqj0Iu1j7cDfo=
+
+Name: lib/x86/libkaolafmsdl.so
+SHA1-Digest: 9H6uhYAT7VfYRuC84PUSA0qbdzQ=
+
+Name: res/drawable-nodpi-v4/radio_menu_pty_p.png
+SHA1-Digest: ESdtpOC+fdQ25bl8Ycm8jSSQTls=
+
+Name: AndroidManifest.xml
+SHA1-Digest: T6Thvzmp9ALiC2W+8XIwqfhI+a8=
+
+Name: res/drawable-nodpi-v4/fl002.png
+SHA1-Digest: vWf3UH0DDJXT/pUlGZiEAGHZGIA=
+
+Name: res/drawable-nodpi-v4/radio_menu_af.png
+SHA1-Digest: h99mbNy4w0iJlf1cE4i+0pR/T7I=
+
+Name: res/raw/radio_freqs.json
+SHA1-Digest: A93Upa2h25c6OWDMB1owHtjz4LQ=
+
+Name: res/drawable-nodpi-v4/radio_bk_editinfo.webp
+SHA1-Digest: RdAyt1qVokFIGUu0g86wtpg8aSg=
+
+Name: res/drawable-nodpi-v4/sw_bottom.webp
+SHA1-Digest: sbdpXEJHR1kAjUDDwHwjH1V89S8=
+
+Name: res/drawable-nodpi-v4/fl011.png
+SHA1-Digest: +8lUWo0Cpv5HoLOtPVJK1sLTFZQ=
+
+Name: res/drawable-nodpi-v4/radio_menu_scan_p.png
+SHA1-Digest: eIjy7IHBwxcqXNYffzKlj+dnbMc=
+
+Name: res/drawable-nodpi-v4/radio_itembk_p.webp
+SHA1-Digest: h9sJTFT0vCrldeh+qgJUpV0qorI=
+
+Name: res/anim/pop_btgps_show.xml
+SHA1-Digest: wz2F6YdOdYO0FrTTpfdMHXVTc/8=
+
+Name: res/drawable-nodpi-v4/sw_frame.webp
+SHA1-Digest: w4HVEchF5yTTlP8zbnt4scYv2Cg=
+
+Name: res/drawable-nodpi-v4/radio_set_check_p.png
+SHA1-Digest: 9+vdXFOgX5KMB0pg6/fRfENVKcA=
+
+Name: res/drawable-nodpi-v4/radio_2.png
+SHA1-Digest: e+IFvX1mvBAV5JeVORDhvNRlbDc=
+
+Name: res/anim/pop_contacts_menu_hidden.xml
+SHA1-Digest: jTLA0WPmqMINAEUzp9yXGbArYOA=
+
+Name: res/drawable-nodpi-v4/radio_freqp_p.png
+SHA1-Digest: //ZArgr24qZSXqvfrhiH9vZwD0s=
+
+Name: res/drawable-nodpi-v4/radio_icost_p.webp
+SHA1-Digest: 3WT42OcqgO9HJ4rTH0G1OzEXlrc=
+
+Name: res/drawable-nodpi-v4/radio_menu_band.png
+SHA1-Digest: YCyIXB54wBBjOvkURqbmxCGiwzY=
+
+Name: res/anim/delete_btn_hide.xml
+SHA1-Digest: FeDm3IsK/VXbiAlW/wq1Q1LXjUo=
+
+Name: res/raw/radio_setfreqinfo.xml
+SHA1-Digest: BqsF0vHK20dQcGFkwwNStEQ/RPc=
+
+Name: res/raw/main.xml
+SHA1-Digest: JEPXV+TXnFGYpCDZOri0pMH5YoY=
+
+Name: res/drawable-nodpi-v4/fl009.png
+SHA1-Digest: IYwLvt5VVxC7H5KrdVXEEjEuL54=
+
+Name: res/drawable-nodpi-v4/radio_set_default_p.png
+SHA1-Digest: dGdPV2M6pyK5cqwZ9dTMRzPVYSs=
+
+Name: res/drawable-nodpi-v4/radio_delinfo_btn_p.webp
+SHA1-Digest: fyQQwr+hwtzEChSfK+d3oZl8qTU=
+
+Name: res/drawable-nodpi-v4/radio_9.png
+SHA1-Digest: T+tj+jY8NRnGilvf15RxWdE4m/Q=
+
+Name: res/anim/loading_anim.xml
+SHA1-Digest: 5RNKJvK061xxT2Z4CHToAmQ/uNA=
+
+Name: res/drawable/copytoast_bk.xml
+SHA1-Digest: 9Gqz7UMc6SE9iTmOKPF4f+eTXAY=
+
+Name: res/raw/radio_set.xml
+SHA1-Digest: 7M9wMeMc1E4AA3aC0YlMb2zIr8Q=
+
+Name: lib/armeabi/libkaolafmsdl.so
+SHA1-Digest: IjXmf6udUzqaeyHfvJEY9YGgk/Y=
+
+Name: res/drawable-nodpi-v4/radio_info_btn.webp
+SHA1-Digest: yBmSpaS58SwGkKYpEFHI4jyzYPI=
+
+Name: lib/armeabi/libkaolafmplayer.so
+SHA1-Digest: bPa4eXg7OLFJeypihrd4qOpL6jw=
+
+Name: res/drawable-nodpi-v4/radio_icoscan_p.webp
+SHA1-Digest: 9QeZ3frwP/CutMil2qbGfb9gp5c=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_btn.webp
+SHA1-Digest: x7Bp1nAtAVl9EDwN+D/aBooJOzo=
+
+Name: res/anim/pop_add_contacts_hidden.xml
+SHA1-Digest: VpykIOAHYQ5zQBKuOBN+Su59IAk=
+
+Name: res/drawable-nodpi-v4/radio_set_sensplus_p.png
+SHA1-Digest: oBh3GKPYhH6i4iDTnolYkgSvP9c=
+
+Name: res/drawable-nodpi-v4/radio_menu_ta_u.png
+SHA1-Digest: VDpexbCxA/wiupZ3ud4F5Vq5DIg=
+
+Name: res/drawable-nodpi-v4/radio_indicator_p.webp
+SHA1-Digest: eBWj7qA8dsTyxHrR1DcNZhsaXBs=
+
+Name: res/anim/delete_btn_show.xml
+SHA1-Digest: rGPZJOyBZxiK8bfLOXMB+CIDNYE=
+
+Name: res/drawable-nodpi-v4/radio_icoloc.webp
+SHA1-Digest: r6VbUI4i/yuKguSZ3X7UASGJEZc=
+
+Name: res/drawable-nodpi-v4/tip_name.png
+SHA1-Digest: Qeo269SBiK7Ff/dPlNN/rzNb94A=
+
+Name: res/drawable-nodpi-v4/radio_set_sensminus.png
+SHA1-Digest: Gf0lH+zvtVVdy1qjyunYlC4ZmRg=
+
+Name: lib/x86/libkaolafmffmpeg.so
+SHA1-Digest: wNRuhjCV4I/SfsHQtnJtI9c4bdw=
+
+Name: res/drawable-nodpi-v4/fl005.png
+SHA1-Digest: 99wDGQ4HZZapwHhVD36cFybMwzs=
+
+Name: res/anim/scale_in.xml
+SHA1-Digest: EoyNM3WzJcPMhL18oyiOsTt8p9I=
+
+Name: res/drawable-nodpi-v4/fl017.png
+SHA1-Digest: DqoRffxVoLRRld/bL8FZ5cXVYZs=
+
+Name: res/drawable-nodpi-v4/radio_menu_save.png
+SHA1-Digest: St49YnxjgicJrd3JoLwvzmz/VXU=
+
+Name: res/drawable-nodpi-v4/radio_image1.png
+SHA1-Digest: KO7ktOkLuDR4DyORFoR9yBZpG4U=
+
+Name: res/drawable-nodpi-v4/radio_4.png
+SHA1-Digest: 1W2GwQmdfqk4JlW28xw5dBb72iM=
+
+Name: res/drawable-nodpi-v4/radio_bk_delinfo.webp
+SHA1-Digest: 4ArjolmJgM5Qagm58QI/6nN2XWY=
+
+Name: res/anim/fade_in.xml
+SHA1-Digest: 12hTGbOgsH7eJ7o2vJMemyAjXMw=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_name.webp
+SHA1-Digest: REW/tGk/xJEFoQMQkI/YpZ1/VfI=
+
+Name: res/drawable-nodpi-v4/fl023.png
+SHA1-Digest: dczOlZPrrbY1zzM3HNJ7TYoAivk=
+
+Name: res/drawable-nodpi-v4/radio_logo.png
+SHA1-Digest: 4Yhaykz9yrYj3Sr3ESubE9uplNU=
+
+Name: res/drawable-nodpi-v4/radio_set_sensplus_u.png
+SHA1-Digest: 7fG8+yMn5lwUEcvlxsS1lT2gN0k=
+
+Name: res/drawable-nodpi-v4/radio_freqp.png
+SHA1-Digest: XSw2l+Xx4f1B7b2enh1SLrubApw=
+
+Name: res/drawable-nodpi-v4/radioset_rds_off.png
+SHA1-Digest: myB7ECLSpRwe7lgD3NF+7QrEZ3o=
+
+Name: res/anim/top_in.xml
+SHA1-Digest: Q8Feyv31drTSeEBYJwKmdyZRSGA=
+
+Name: res/drawable-nodpi-v4/sw_normal.webp
+SHA1-Digest: BHchec0B0fQdCi/KbYi43btQnkU=
+
+Name: res/drawable-nodpi-v4/radio_icoloc_p.webp
+SHA1-Digest: yKkdPsaZ+23igHQk9vi2YpxhbGo=
+
+Name: res/anim/bottom_out.xml
+SHA1-Digest: K/wjQyPwLPNBMe3dQ68ed+9wKh4=
+
+Name: res/drawable-nodpi-v4/fl012.png
+SHA1-Digest: +Y43ht+R2s+DhtfLnbkEYAuLOxk=
+
+Name: res/drawable-nodpi-v4/radio_item_edit.webp
+SHA1-Digest: FCLLpkGJAy6IqZv16dPxgSXLe1M=
+
+Name: res/drawable-nodpi-v4/zh_tip.png
+SHA1-Digest: bJ+Ood4Or65vT6jVResxucFWZqs=
+
+Name: res/drawable-nodpi-v4/radio_bk_info.webp
+SHA1-Digest: UzV6lZErTyHEeKrvTs1bGZw1cvU=
+
+Name: res/drawable-nodpi-v4/radio_set_txtbk.webp
+SHA1-Digest: jVWH/i5Dsru5B6rB2O7lz5JtwjU=
+
+Name: lib/x86/libkaolafmutil.so
+SHA1-Digest: +3qK18e80a5iN0dYejYK0XfZ3Fs=
+
+Name: res/drawable-nodpi-v4/hor_radio_freqp.png
+SHA1-Digest: 2FiW3yUm6hP11Ex13amxTmWevM0=
+
+Name: res/drawable-nodpi-v4/radio_menu_loc.png
+SHA1-Digest: dSGiakbIdn2Bsdc9+1GCnFuP574=
+
+Name: res/drawable-nodpi-v4/radio_menu_band_p.png
+SHA1-Digest: Io94jUheJy3U4nAcdIU7fh5A+YA=
+
+Name: lib/armeabi/libkaolafmffmpeg.so
+SHA1-Digest: uQmdZduB2IN7UcLNOT9wxUKkC9M=
+
+Name: res/raw/radio_editinfo.xml
+SHA1-Digest: JCYqN2rjIqUgP4V6gy9fe+fmo1M=
+
+Name: res/drawable-nodpi-v4/en_tip.png
+SHA1-Digest: ZWdJAiHEuS5C/ZsD+OZu1GkjDx8=
+
+Name: res/drawable-nodpi-v4/fl001.png
+SHA1-Digest: edSQ5KauZvzobcqvoDyLiaQ2ClU=
+
+Name: res/anim/pop_history_menu_hidden.xml
+SHA1-Digest: FIHmOpms4TmiMWkgMXHdux4LFD0=
+
+Name: res/drawable-nodpi-v4/radio_item_edit_p.webp
+SHA1-Digest: 9XSITFxR7z+wuKozHW8EE5mYmMc=
+
+Name: res/raw/radio_cityinfo.xml
+SHA1-Digest: DAL1NPd/MmN9Las++qBszslBZIk=
+
+Name: res/drawable-nodpi-v4/radio_8.png
+SHA1-Digest: ebee6N4sSGy0V06eWkK91o97kCY=
+
+Name: res/anim/scale_out.xml
+SHA1-Digest: uvXK5MKcftZUP58L3dDmghEyrd8=
+
+Name: res/drawable-nodpi-v4/radio_icost.webp
+SHA1-Digest: fGxFTWRp+RKLyH7xKrrAJrvsWvs=
+
+Name: res/drawable-nodpi-v4/bk_hor.png
+SHA1-Digest: Or2EamGOgrZNUC9Q2k4k46GETFw=
+
+Name: res/drawable-nodpi-v4/radio_menu_st.png
+SHA1-Digest: C70CPDUUs8o26M9YCpm/GXiduuw=
+
+Name: res/drawable-nodpi-v4/radio_menu_st_p.png
+SHA1-Digest: IdXPTZTi6LIVJ0iUmpO49z6UX5A=
+
+Name: res/drawable-nodpi-v4/radio_icotaon_p.webp
+SHA1-Digest: 5y116UDtiSvTH1qZUR7PY1rVi70=
+
+Name: res/drawable-nodpi-v4/radio_delinfo_btn.webp
+SHA1-Digest: o9fz7WIO3QflMl37zwIBZ0ZuO08=
+
+Name: res/drawable-nodpi-v4/radio_icotp_p.webp
+SHA1-Digest: v0570dg99FRI1/INZq7Qai8EHTU=
+
+Name: res/drawable-nodpi-v4/fl008.png
+SHA1-Digest: aIDwJvsw00lE9/mS2ppz4RCLCgY=
+
+Name: res/drawable-nodpi-v4/fl016.png
+SHA1-Digest: cKMlKu6UWYoghKlSNQefgqnYcmI=
+
+Name: res/drawable-nodpi-v4/radio_freqm_p.png
+SHA1-Digest: mY/+UkSdVVHadUJ5aps1X0LENHs=
+
+Name: res/anim/pop_contacts_menu_show.xml
+SHA1-Digest: MGO7eobyg0SdPrAv7UVIN3UcDxQ=
+
+Name: res/drawable-nodpi-v4/radio_set_check.png
+SHA1-Digest: 5X5TbO4oW9aEbM213atazNN4vmA=
+
+Name: res/drawable-nodpi-v4/radioset_rds_on.png
+SHA1-Digest: PrCAXOxJjD7vaxo88WRFbXiPt/Y=
+
+Name: res/drawable-nodpi-v4/radio_3.png
+SHA1-Digest: nch8OHJrHPVMDMS4hQixNm4B5yY=
+
+Name: res/drawable-nodpi-v4/radio_icoafon.webp
+SHA1-Digest: ntiBbMgKYG7iJor0dHKjmfzkX3Q=
+
+Name: res/drawable-nodpi-v4/fl004.png
+SHA1-Digest: pHKeu5r62kX6y5H2ZpDEhxrgijs=
+
+Name: res/drawable-nodpi-v4/radio_menu_edit_p.png
+SHA1-Digest: 9JU68ek0RkdswZLgJ+20T8iyJ8E=
+
+Name: res/anim/pop_suspend_show.xml
+SHA1-Digest: YSjCpFB+I+egIyN4j7M5hfExUiU=
+
+Name: res/raw/radio_infoitem.xml
+SHA1-Digest: CID7orbItL/T2so1ibxN/ogED5g=
+
+Name: res/drawable-nodpi-v4/bk_radio.png
+SHA1-Digest: HpPXOfMcLdU5r/GD40M/AvLXY3w=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_freqp.webp
+SHA1-Digest: yL3yZyjMSRGjdO21o7seWmm32Bo=
+
+Name: res/anim/bottom_in.xml
+SHA1-Digest: dgzPjkZzYsLk1dAam7aATZM+Ghg=
+
+Name: res/drawable-nodpi-v4/hor_radio_freqm_p.png
+SHA1-Digest: qXrwm1t5B+SQXw8qDUtrlUsp288=
+
+Name: res/drawable-nodpi-v4/radio_ch.png
+SHA1-Digest: aoewlWdIfs88D7Y6JJK2E7z+/Co=
+
+Name: res/anim/right_in.xml
+SHA1-Digest: PTYPn5NqIiftEohUM/iLML6mHZo=
+
+Name: res/raw/half_hor_radio.xml
+SHA1-Digest: EsDCZEWrYH/HEdcwMmwfsuf9X3g=
+
+Name: res/drawable-nodpi-v4/radio_whiteline.webp
+SHA1-Digest: d96YpIoL5dmU9EW39QFwEAiLN10=
+
+Name: res/drawable-nodpi-v4/radio_menu_ta_p.png
+SHA1-Digest: Vu1q1QFgNgKu0nGolckQ04lTS4g=
+
+Name: res/drawable-nodpi-v4/radio_set_sensplus.png
+SHA1-Digest: 3v3+5Wmt6oBIeBVOoQD3zFtQvQk=
+
+Name: res/anim/pop_pin_hidden.xml
+SHA1-Digest: z7ts6RRYu9gPjvnW9i4kc3MCsKo=
+
+Name: res/drawable-nodpi-v4/radio_0.png
+SHA1-Digest: v3xOxNTrDsTMkqWWyNMn/QFlRTU=
+
+Name: res/raw/radio.xml
+SHA1-Digest: CRWSFSug1jfSfVLHkdLzwQ+Qn1A=
+
+Name: res/drawable-nodpi-v4/sw_mask.webp
+SHA1-Digest: a3FWhGwv3/IU3G+EJah3uox6VgQ=
+
+Name: res/raw/conf_client.xml
+SHA1-Digest: gocx/4g6EPlYIA+THj7Axo9eCvc=
+
+Name: res/drawable-nodpi-v4/radio_delinfo_bk.webp
+SHA1-Digest: K0DUxoTmNQi487dphzzpmOmmfGE=
+
+Name: res/drawable/loading_dialog_bg.xml
+SHA1-Digest: 9FvXhk3LXf/S4Dz7wr4jaJZ0Wnc=
+
+Name: res/drawable-nodpi-v4/radio_menu_set.png
+SHA1-Digest: WYeeIgAzGpImp/jVtEfT9LGmDf8=
+
+Name: res/drawable-nodpi-v4/radio_0point.png
+SHA1-Digest: qBE4HVwyzsi0KbATnZ0Ij2TwhXE=
+
+Name: res/drawable-nodpi-v4/radio_set_default.png
+SHA1-Digest: avtf5GVhGI8xuI3Vi85SE397yqk=
+
+Name: res/drawable/circle_progressbar_style.xml
+SHA1-Digest: FViTkboObT4Frs7K9jaU2YW9lIg=
+
+Name: res/drawable-nodpi-v4/radio_7.png
+SHA1-Digest: OACe2dRJ2DpRn/5Vqsm3YNR/TKc=
+
+Name: res/drawable-nodpi-v4/radio_freqm.png
+SHA1-Digest: /5St9caJwuW8tSBxFQIBEU2/+oo=
+
+Name: res/drawable-nodpi-v4/fl013.png
+SHA1-Digest: bs0Uphz1AZg9RhjM5RCA0XTCRX4=
+
+Name: bin/AndroidManifest.xml
+SHA1-Digest: 1AKrGYCJEzWBwbwkdcgH5V4V6e4=
+
+Name: res/raw/radio_menu1.xml
+SHA1-Digest: GBT8oYkcSdxfloWv5TmM89n/VII=
+
+Name: res/drawable-nodpi-v4/fl007.png
+SHA1-Digest: w0lWvIY2/MuMqI4espFmlljzOJs=
+
+Name: res/drawable/toast_bg.xml
+SHA1-Digest: Zq3Is2ytESJ/VVc4mhBiKxZnSlQ=
+
+Name: res/drawable-nodpi-v4/radio_menu_pty_u.png
+SHA1-Digest: Q9RC4thlh8EKQhh22gXHek4B2n0=
+
+Name: res/raw/radio_menu2.xml
+SHA1-Digest: bDtJ7lZj595Fgyjvs4ZoLzIw5tk=
+
+Name: res/drawable-nodpi-v4/radio_menu_pty.png
+SHA1-Digest: N7pHzveYW8LdwAl/CQVKSOXYIwM=
+
+Name: res/drawable-nodpi-v4/hor_radio_freqm.png
+SHA1-Digest: /ufJxkDwRCWGjXnjaayMRG3+vJ0=
+
+Name: res/drawable-nodpi-v4/fl015.png
+SHA1-Digest: bYhJx9odzMupWtrWWZOOJKApAH4=
+
+Name: res/anim/pop_suspend_hidden.xml
+SHA1-Digest: tmFlasZeThQRb7TgoQy9qhZ6IHA=
+
+Name: res/drawable-nodpi-v4/radio_menu_loc_p.png
+SHA1-Digest: OLFloyS1LjYMMjIeV+olX5FvsOA=
+
+Name: res/raw/conf_screen.xml
+SHA1-Digest: lViPpC0WiDanfQzBMiTmeOYiYPQ=
+
+Name: res/drawable-nodpi-v4/radio_body.png
+SHA1-Digest: 0rfUBwKsWqXKq+9ttKUfiUZun54=
+
+Name: res/drawable-nodpi-v4/radio_6.png
+SHA1-Digest: Rx1uc6SywSg9DGVZL21iqHZFDmM=
+
+Name: res/drawable-nodpi-v4/ru_tip.png
+SHA1-Digest: BeIDRO6D9G0fIiqdWr/PBPIxWQU=
+
+Name: res/drawable-nodpi-v4/tip_logo.png
+SHA1-Digest: pfsV581NMnDEj78+1TjzN0PCrrU=
+
+Name: res/drawable-nodpi-v4/radio_menu_edit.png
+SHA1-Digest: dulcEnAW4HanNXzGpycAM3E1e00=
+
+Name: res/raw/radio_info.xml
+SHA1-Digest: p99b0q8zZns+T/xpQB/gVYx9ATg=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_freqp_p.webp
+SHA1-Digest: 0E/AwUyO1s7cDR28GxmwcFGyCPQ=
+
+Name: res/drawable-nodpi-v4/radio_menu_ta.png
+SHA1-Digest: 32qEX2sSf+GgDFRZF+OVRp3b1gM=
+
+Name: res/drawable-nodpi-v4/radio_set_sensminus_u.png
+SHA1-Digest: qEJBkqT2+mv+wq5xaIStTbrJ9j8=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_freqm.webp
+SHA1-Digest: qEk/TNBmzphVcOIuX8ztadWoLEI=
+
+Name: res/drawable-nodpi-v4/bk_set.png
+SHA1-Digest: vY95HQCnTOFa6DIpp/7tdbvGDJw=
+
+Name: res/drawable-nodpi-v4/fl021.png
+SHA1-Digest: 5CnCCEzOCGya/xlT0h0WkORmJ0I=
+
+Name: res/drawable-nodpi-v4/fl019.png
+SHA1-Digest: whAewdHPqRltM0XwgyG/jrolQ+U=
+
+Name: lib/x86/libkaolafmplayer.so
+SHA1-Digest: SQ4EyY/iRP1LGoA4Oc7UetzJMus=
+
+Name: res/drawable-nodpi-v4/fl010.png
+SHA1-Digest: G0tHSyNOY0XgsGOYHh+UI2n+LL4=
+
+Name: res/drawable/radio_icon.png
+SHA1-Digest: lSFTuMbDy974lUStJX+UBQJZLGI=
+
+Name: res/anim/top_out.xml
+SHA1-Digest: RETG4Tu4OKm40h8hK+XJi/3Hm3s=
+
+Name: res/drawable-nodpi-v4/radio_1.png
+SHA1-Digest: hFo5IzazgbZimoxJksSthxzgioo=
+
+Name: res/raw/conf_platform.xml
+SHA1-Digest: 7U7AM6GZTM9F2Q87m2jW17QBZq8=
+
+Name: res/drawable/toast_bk.xml
+SHA1-Digest: Kc0Ui6H8SsoehAVCV5OcXLUH8OE=
+
+Name: res/drawable-nodpi-v4/radio_indicator.webp
+SHA1-Digest: Z0nGrW+gicbgZbePgbfsMJgk1bQ=
+
+Name: res/drawable-nodpi-v4/fl020.png
+SHA1-Digest: oTPfKtUsd2xup3m7WJJZP5HO594=
+
+Name: res/drawable-nodpi-v4/radio_ch_p.png
+SHA1-Digest: Hi7W0VsPYY/37zNsFhKZRvCZY20=
+
+Name: res/drawable-nodpi-v4/radio_menu_af_p.png
+SHA1-Digest: P+5G9LG1nhzLT3Wm3b+ZzGSa1hc=
+
+Name: res/drawable-nodpi-v4/radio_menu_set_p.png
+SHA1-Digest: QWwulVmY0rdi/q+0zYqAyzTJjOc=
+
+Name: res/drawable-nodpi-v4/radio_item_del_p.webp
+SHA1-Digest: 899I60BW5RBoBaQbzPjT35AbDXw=
+
+Name: res/drawable-nodpi-v4/fl003.png
+SHA1-Digest: d1IaOFuCJ/HQPdTIRzHykSKyqMo=
+
+Name: res/drawable-nodpi-v4/radio_ruler_mark.png
+SHA1-Digest: 0Mh3ZGhnQe8llbnnlywFy7t9jAc=
+
+Name: res/anim/left_in.xml
+SHA1-Digest: QuT/wf6ABPqdbtfe3EWgKFqYZhw=
+
+Name: res/drawable-nodpi-v4/radio_editinfo_freqm_p.webp
+SHA1-Digest: exxkpLjmAxdX4B3o+4CWQymJdqY=
+
+Name: res/drawable-nodpi-v4/radio_set_sensminus_p.png
+SHA1-Digest: +wEqu4m0hwaXx6bUxjw26Eoqxdo=
+
+Name: res/drawable-nodpi-v4/radio_icotp.webp
+SHA1-Digest: LBKhVzrZwEi2GUKTDsUpyBaWLMU=
+
+Name: res/drawable-nodpi-v4/radio_menu_af_u.png
+SHA1-Digest: RRRnzxEIZyQsGy9MiMLgp3KDzrM=
+
+Name: res/drawable-nodpi-v4/radio_item_del.webp
+SHA1-Digest: dJqWSqPjgP27qnMmTGQYVMZ19Zk=
+
+Name: lib/armeabi/libkaolafmutil.so
+SHA1-Digest: ch8OM6E+B6gvmKFn2O5RtbkxOnU=
+
+Name: classes.dex
+SHA1-Digest: ci/G+ZUpuYELFaa2FGTnwjSy/Q4=
+
+Name: res/drawable-nodpi-v4/fl014.png
+SHA1-Digest: b4BFSB9xVipUFgioPX4Cr0AUFFA=
+
